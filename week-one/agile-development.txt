@@ -72,6 +72,7 @@ done that, do the following:
 PTY allocation request failed on channel 0
 Hi keunglh! You've successfully authenticated, but GitHub does not provide shell access.
 Connection to github.com closed.
+#new commit added here
 
 Clone your fork of this repository. Then, on your computer, add a remote
 referencing my copy of the repository as the upstream rep by running
