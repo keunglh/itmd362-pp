@@ -58,7 +58,10 @@ Use Google or another search engine to learn the keyboard commands to take a scr
 that shows the overview of each of your virtual desktops. Create the screenshot, then copy it to this directory (`week-two`) and add and commit it to the repository.
 
 Then, also list here the keyboard commands to switch between your different virtual desktops (on some operating systems,
- you might be able to customize the shortcuts to your own liking):
+you might be able to customize the shortcuts to your own liking):
+
+Fortunately, Linux Mint comes with a built-in Virtual Desktop/Workspace capability. The keyboard commands are Ctrl+Alt+Left/Right Arrow Keys to switch between the workspaces.
+Ctrl+Alt+Up Arrow Key see all of the workspaces.
 
 
 4. Set up a distraction-free browser.
@@ -75,8 +78,8 @@ distraction-free browser. Create the screenshot, then copy it to this directory 
 
 Projecting your screen or showing it to someone else can be an immediate source of embarrassment if a notification
 pops up from the wrong app. For every device you own, learn how to disable the notifications. On your desktop device
- and on one of your devices, take a screenshot of the screen where you can disable all notifications. Create the
- screenshots, then copy them to this directory (`week-two`) and add and commit them to the repository.
+and on one of your devices, take a screenshot of the screen where you can disable all notifications. Create the
+screenshots, then copy them to this directory (`week-two`) and add and commit them to the repository.
 
 6. Invest in a machine-washable microfiber cloth & clean your screens.
 
