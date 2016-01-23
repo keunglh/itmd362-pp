@@ -62,6 +62,7 @@ git version 1.9.1
 
 user.email= lkeung@hawk.iit.edu
 user.name = keunglh
+#new commit added here
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
