@@ -2,11 +2,14 @@
 
 ## The Problem
 
-Find the HTML form in the `index.html` file in this directory. First, set it up to correctly accept the information called for in the <label> elements, and ensure that the HTML is valid.
+Find the HTML form in the `index.html` file in this directory. First, set it up to
+correctly accept the information called for in the <label> elements, and ensure that the HTML is valid.
 
-Then, create a set of baseline, mobile-first styles that make this form easy to fill out on a mobile phone. You should begin by including reset styles.
+Then, create a set of baseline, mobile-first styles that make this form easy to fill out on a
+mobile phone. You should begin by including reset styles.
 
-Select for the form a CSS font stack based on commonly available system fonts. Then, enhance your font stack by loading and applying a Google font face that you think works well for form inputs.
+Select for the form a CSS font stack based on commonly available system fonts. Then, enhance
+your font stack by loading and applying a Google font face that you think works well for form inputs.
 
 Bonus points for loading the Google font via both JavaScript, with a CSS-only fallback.
 
