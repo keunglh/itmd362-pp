@@ -53,12 +53,23 @@ table {
 label {
     display: block;
 		font-family: 'Oswald', sans-serif;
+		border-radius: 0.5em;
+		color: royalblue;
+}
+
+label::after
+{
+	content: ': ';
 }
 
 input{
     margin-bottom: 10px 16px;
     min-width: 25em;
 		min-height: 2em;
+}
+
+input:hover{
+	background-color: whitesmoke;
 }
 
 textarea {
@@ -69,6 +80,24 @@ textarea {
 
 #submit {
     height: 5em;
+		border-radius:0.5em;
+		color: royalblue;
+		font-family: 'Oswald', sans-serif;
+}
+
+#reset:hover{
+	background-color: whitesmoke;
+}
+
+#submit:hover{
+	background-color: whitesmoke;
+}
+
+#reset {
+	height: 2em;
+	border-radius:0.5em;
+	color: royalblue;
+	font-family: 'Oswald', sans-serif;
 }
 
 #wrapper {
