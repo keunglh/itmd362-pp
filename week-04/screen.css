@@ -76,6 +76,7 @@ textarea {
 	margin-bottom: 10px 16px;
 	min-width: 25em;
 	min-height: 5em;
+	background-color: whitesmoke;
 }
 
 #submit {
@@ -144,7 +145,7 @@ textarea {
       line-height: 1em;
       font-size: 1em;
       border: 1px solid #ccc;
-      background-color:ghostwhite;
+      background-color: ghostwhite;
     }
 
 }
