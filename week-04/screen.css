@@ -55,9 +55,16 @@ label {
 		font-family: 'Oswald', sans-serif;
 }
 
-input, textarea {
+input{
     margin-bottom: 10px 16px;
-    min-width: 15em;
+    min-width: 25em;
+		min-height: 2em;
+}
+
+textarea {
+	margin-bottom: 10px 16px;
+	min-width: 25em;
+	min-height: 5em;
 }
 
 #submit {
