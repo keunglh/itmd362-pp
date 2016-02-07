@@ -47,11 +47,12 @@ table {
 	border-spacing: 0;
 }
 
-/*Custom CSS*/
+/*My own CSS after the reset*/
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
 label {
     display: block;
+		font-family: 'Oswald', sans-serif;
 }
 
 input, textarea {
@@ -65,5 +66,5 @@ input, textarea {
 
 #wrapper {
     margin: 1em;
-    font-family: 'Oswald', Verdana, Helvetica, sans-serif;
+    font-family: 'Oswald', Verdana, Arial, Helvetica, sans-serif;
 }
