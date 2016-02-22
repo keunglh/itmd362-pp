@@ -32,8 +32,14 @@ a better fit.
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: complementary.png
+Explanation of your color choices: I guess taking some inspiration from some banking institutions that I know, I tried to analyze
+and think about their colors and tried to incorporate my own interpretation. I chose the multiple shades of blue to represent
+an inherent serenity and peace when banking, without the worries of loss, fraud or any other risks that are typically attributed.
+However, I also wanted to add a color of gray to try and represent the stolid security of a bank by representing the color of
+mortar, stone, bricks etc. And lastly, the yellow is not only a representation of "gold" and money, but also for the sunrise and
+sunsets to represent a new day and end of not only safe and reliable banking but one that helps the customer in their financial
+endeavors.
 
 * A triadic palette for a website that offers games for children.
 
