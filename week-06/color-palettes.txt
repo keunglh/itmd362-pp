@@ -48,4 +48,7 @@ Explanation of your color choices: Similar to the banking website, I did some pe
 that I played when I was a child. Although I primarily played many flash games, I don't expect this generation of children to be
 doing the same so I focused more on browser based games such as Runescape, Neopets, Club Penguins and other children's games that
 are common mentioned. As a result, I tried to incorporate strong colors such as Blue and Red to catch attention, and then colors
-representative of gold and silver to highlight the adventures and progression for children. 
+representative of gold and silver to highlight the adventures and progression for children. In addition, I tried to keep more "dull"
+colors instead of the typical hard/strong blue. Although blue and red are still relatively strong and "cutting" colors, I tried to
+dampen the scheme a bit more, especially with the prevalence of technology for the future generations, it's important to protect
+the eyes.
