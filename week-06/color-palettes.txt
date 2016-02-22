@@ -23,8 +23,12 @@ it is supposed to represent strength and power, but in a computer sense, speed a
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename: 
-Explanation of your color choices:
+Filename: shaded.png
+Explanation of your color choices: Since the website will most likely have images of more green vegetables, fruits and produce,
+I wanted to overall have a more earthy-tone and natural color scheme reminiscent of dirt, with some slight darker red/brown shades
+to try and simulate more of a clay texture and feel. With that in mind, I could have went with a more green tone to represent the
+organic and natural foods but with the content assuming images of what would already be there, I felt a brown-earth tone would be
+a better fit.
 
 * A complementary palette for a banking website.
 
