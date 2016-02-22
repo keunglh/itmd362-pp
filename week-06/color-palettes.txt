@@ -43,5 +43,9 @@ endeavors.
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename: triadic.png
+Explanation of your color choices: Similar to the banking website, I did some personal experience and research on the kinds of games
+that I played when I was a child. Although I primarily played many flash games, I don't expect this generation of children to be
+doing the same so I focused more on browser based games such as Runescape, Neopets, Club Penguins and other children's games that
+are common mentioned. As a result, I tried to incorporate strong colors such as Blue and Red to catch attention, and then colors
+representative of gold and silver to highlight the adventures and progression for children. 
