@@ -10,17 +10,20 @@ based on the requirements in the Deliverables section below.
 
 Fine-grained, atomic commits to your Production Problems repository that include:
 
-1) screenshots of your web-based palette for the four palettes below;
-2) an explanation, after each palette request below, why you chose the colors you did
+1) Screenshots of your web-based palette for the four palettes below;
+2) An explanation, after each palette request below, why you chose the colors you did
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: monochromatic.png
+Explanation of your color choices: Having built a custom-made gaming desktop, I spent a lot of time planning and viewing several
+samples of color schemes. In the end, I chose a strong blue and black combination but in this palette, I decided to focus on the
+blue with some darker underlying tone while trying to emphasize a more bright and blue overall tone. Similar to a blue flame,
+it is supposed to represent strength and power, but in a computer sense, speed and power is king.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
+Filename: 
 Explanation of your color choices:
 
 * A complementary palette for a banking website.
