@@ -13,8 +13,10 @@ want to do multiple sketches, each highlighting a different feature of the same 
 
 * Apple iOS HCI Guidlines:
   https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+
 * Android Design Guidelines:
   http://developer.android.com/design/index.html
+  
 * Windows Desktop Guidelines:
   https://dev.windows.com/en-us/desktop/design
 
@@ -26,11 +28,11 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guideline One (URL):
 * How you implemented it in your sketch:
 
-* HCI Guidline Two (URL):
+* HCI Guideline Two (URL):
 * How you implemented it in your sketch:
 
-* HCI Guidline Three (URL):
+* HCI Guideline Three (URL):
 * How you implemented it in your sketch:
