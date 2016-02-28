@@ -48,3 +48,12 @@ necessary and for concise instructions meant to avoid ambiguity.
 
 * HCI Guideline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Navigation.html#//apple_ref/doc/uid/TP40006556-CH53-SW1
 * How you implemented it in your sketch:
+In the first sketch, I wanted to address the idea and implementation of navigation that provides a well though out
+and strong decision making proccess. Both in the mobile and desktop version, there would be an icon on the top left of the
+screen as well as a caption that says, "Not Where You Want To Be?". In it is the main navigation bar for the page, since this
+is mainly a login page for the student portal, the menu bar would help redirect lost students or prospective students at other
+resources about IIT. The way I planned the navigation would be hierarchical as well as experience/content driven because I picked
+some of the most commonly asked topics and departments as well as provided a hierarchical scheme for further information as
+seen on the sketch. However, I tried to keep the "choices" short and concise so that users would not get frustrated
+and just end up exiting. Of course, the navigation bar won't be all encompassing, so that users will have to travel farther
+themselves to access information that they couldn't find but most of the key links will be provided.
