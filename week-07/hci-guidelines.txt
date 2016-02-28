@@ -16,7 +16,7 @@ want to do multiple sketches, each highlighting a different feature of the same 
 
 * Android Design Guidelines:
   http://developer.android.com/design/index.html
-  
+
 * Windows Desktop Guidelines:
   https://dev.windows.com/en-us/desktop/design
 
@@ -28,11 +28,23 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Branding.html#//apple_ref/doc/uid/TP40006556-CH60-SW1
+* How you implemented it in your sketch:
+One problem that has always bugged me as well as many are the shameless plugs and mentions of IIT within that portal page.
+However such branding is pointless as this login portal is typically used by the students that have already been admitted or
+current students of IIT. As a result, I decided to revamp the branding aspect of the site to give it a "unique look and feel" to
+give the users an experience that isn't an eyesore with harsh typography and most of all, a warm and inviting color with broad
+and curved text. Although my sketch may not illustrate it too well, I wanted to keep a color palette of gray, red, black, and
+orange similar to IIT's main page. However, instead of a sharp bright red, I wanted to focus on more of a washed/dull red that
+still can stick out but doesn't cause someone to shirk back in shock. Another element I wanted to add is a background image to
+the page that can help with branding. Meant to stay in the background behind the content container, it would be an image overlooking
+the Chicago skyline as well as the IIT campus. An image that still awes me today, I think it would be a great thing to show
+others about the good and beauty that IIT can offer. Though "IIT" pops up a few times on the page, they're only used as
+necessary and for concise instructions meant to avoid ambiguity.
+
+* HCI Guideline Two (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Iconography.html#//apple_ref/doc/uid/TP40006556-CH59-SW1
 * How you implemented it in your sketch:
 
-* HCI Guideline Two (URL):
-* How you implemented it in your sketch:
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Navigation.html#//apple_ref/doc/uid/TP40006556-CH53-SW1
 * How you implemented it in your sketch:
