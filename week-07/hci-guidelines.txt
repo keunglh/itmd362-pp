@@ -44,6 +44,13 @@ necessary and for concise instructions meant to avoid ambiguity.
 
 * HCI Guideline Two (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Iconography.html#//apple_ref/doc/uid/TP40006556-CH59-SW1
 * How you implemented it in your sketch:
+As I mentioned earlier, I wanted to add a background graphic to accompany the main portal page. However the main point of interest
+are the icons that are placed throughout the page. One of them is the MyIIT logo that I hope to keep in the header. Other than
+that, most of the page is text, image and negative space. However, when we get to the navigation menu, there will be essentially
+two formats. For the mobile devices, the menu would pop out and blur the background and provide the necessary buttons.
+On a desktop version, the menu would essentially pop out from the side and shift the page into a smaller dimension. The icons
+are mainly placed along the menu options to help provide a graphic. Using a single small icon, it was a bit difficult to try and
+encompass the necessary links but I chose what I thought were the most appropriate.
 
 
 * HCI Guideline Three (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Navigation.html#//apple_ref/doc/uid/TP40006556-CH53-SW1
