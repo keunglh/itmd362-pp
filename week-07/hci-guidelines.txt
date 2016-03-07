@@ -64,3 +64,6 @@ some of the most commonly asked topics and departments as well as provided a hie
 seen on the sketch. However, I tried to keep the "choices" short and concise so that users would not get frustrated
 and just end up exiting. Of course, the navigation bar won't be all encompassing, so that users will have to travel farther
 themselves to access information that they couldn't find but most of the key links will be provided.
+n
+
+Ran into a problem with my linux machine, making sure these commits will still work and all.
