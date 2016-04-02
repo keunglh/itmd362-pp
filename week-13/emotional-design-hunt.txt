@@ -4,7 +4,12 @@
 
 First, read the assigned reading from Donald Norman, listed on the ITMD 362 syllabus.
 
-Then, locate a physical object that you use regularly in your life (does not have to be an electronic or digital object), take a photograph of it, and identify in a sentence or two its visceral, behavioral, and reflective levels of emotional design. Then, develop a list of three qualities in that object’s emotional design that your group might use in your MyIIT redesign project. Be sure to share these with your group.
+Then, locate a physical object that you use regularly in your life
+ (does not have to be an electronic or digital object), take a
+ photograph of it, and identify in a sentence or two its visceral, behavioral,
+  and reflective levels of emotional design. Then, develop a list of three
+  qualities in that object’s emotional design that your group might use in your
+  MyIIT redesign project. Be sure to share these with your group.
 
 ## Deliverables
 
