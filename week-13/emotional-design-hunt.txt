@@ -13,7 +13,7 @@ Then, locate a physical object that you use regularly in your life
 
 ## Deliverables
 
-A. Photograph of the object (place in the week-12/ directory and commit).
+A. Photograph of the object (place in the week-13/ directory and commit).
 
 B. Emotional design levels of your object:
 
@@ -57,6 +57,7 @@ around us.
 C.  Emotional design qualities of the object that might
 be useful for Project 3/MyIIT redesign:
 
+<<<<<<< HEAD
 1. Usability, must be intuitive as well as responsive for all sorts of media and devices.
 
 2. Aesthetics, must capture the user, entice them. Good content, meaningful media,
@@ -68,3 +69,8 @@ thoughtful and appealing design, but not at the cost of functionality. In most c
 I want to say that the "maximum functionality, bare necessities" can be an applicable
 statement. Design must be good and everything has to have a purpose, so it's just the
 bare necessities to provide the best and most comprehensive user experience.
+=======
+1.
+2.
+3.
+>>>>>>> 8d37e56560005358ee63120bad2406a3fec91dd1
