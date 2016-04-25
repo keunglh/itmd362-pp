@@ -15,3 +15,22 @@ describe modification and the HTML, CSS, and JavaScript that you would need to w
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for
  the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+For the most part, the desktop version of the website was pretty good and I had little to no qualms about it.
+However, the most annoying part for me was how the "Trendings" bar was so obscure and even today, still escapes my eye many times.
+As a result, the modification that I made was simple, just to make it a more explicit background color from the light gray to the
+dark gray that was used for the header bar at the top of the site. I didn't want to make it the main navigation bar red header because
+I didn't want to cause any confusion with the user that the trendings might also be a comprehensive navigation bar as well.
+
+Although the gray may clash slightly with the color used to display the main/featured articles, that's fine because they're both doing
+similar tasks by featuring specific articles or topics that have received a lot of traction or attention.
+
+Inspecting the HTML for the trending bar, each of the links are statically linked topics. However if I was able to change it, I would
+try and have it dynamically updated depending on the "tags" linked to the most read articles per week. Although it may not make much of a
+difference because those trending topics are "buzzwords" in the industry but to have a dynamically updated "trending" bar would make it
+that much more trendier. Of course, there will also need to have the corresponding javascript.
+
+The CSS would essentially change the height of the trending bar as well as the background and font color in order to create a
+good contrast.
+
+p.s I would also completely redo the mobile site because it is very poorly designed to be mobile-first responsive. 
